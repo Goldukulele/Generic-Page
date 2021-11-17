@@ -16,6 +16,10 @@
     font-family: 'Roboto', arial;
 }
 
+body{
+    padding: 0;
+    margin: 0;
+}
 ul{
     display: flex;
     gap: 20px;
